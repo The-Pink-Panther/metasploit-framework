@@ -54,7 +54,7 @@ msf6 post(windows/gather/credentials/mycommander_ftp) > run
 [*] Post module execution completed
 ```
 
-### My Commander Client v4.0 on Windows 10 Home 10.0.19045 N/A Build 19045 Default
+### My Commander Client v4.0 on Windows 10 Home 10.0.19045 N/A Build 19045 Verbose
 ```
 msf6 post(windows/gather/credentials/mycommander_ftp) > run
 
