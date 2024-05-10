@@ -2,7 +2,7 @@
 
 This post-exploitation module extracts clear text credentials from the TeamSpeak 5 Client.
 
-The TeamSpeak 5 Client is avaialble from (https://www.teamspeak3.com/teamspeak-download.php).
+The TeamSpeak 5 Client is avaialble from (https://www.teamspeak.com/en/downloads/#ts5client).
 
 This module extracts information from the setting.db file in the "AppData\Roaming\TeamSpeak" directory.
 
